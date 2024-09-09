@@ -62,4 +62,10 @@ The target variable (`Target`) indicates whether a student has "Dropped out" (0)
 To install the required packages, run:
 ```
 pip install -r requirements.txt
+
 ```
+## How to Run
+
+1. Clone the repository.
+2. Install the required packages.
+3. Run the notebook student_dropout_prediction.ipynb to see the results.
